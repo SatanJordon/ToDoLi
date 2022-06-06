@@ -1,1 +1,1 @@
-web: gunicorn ToDoLi.ToDoLi.wsgi --log-file -
+web: gunicorn ToDoLi.wsgi --log-file -
